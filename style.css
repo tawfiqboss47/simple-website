@@ -1,0 +1,8 @@
+.box-1 {
+    background: tomato;
+    padding: 1%;
+    display: inline-block;
+    margin: 20px;
+    width: 30%;
+    box-sizing: border-box;
+}
