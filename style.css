@@ -2,7 +2,10 @@
     background: tomato;
     padding: 1%;
     display: inline-block;
+    border-radius: 15px;
     margin: 20px;
     width: 30%;
     box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    height: 200px;
 }
